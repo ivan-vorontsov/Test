@@ -1,0 +1,11 @@
+C:\Users\ivanl\source\repos\HashJoin\bin\Debug\netcoreapp2.2\HashJoin.deps.json
+C:\Users\ivanl\source\repos\HashJoin\bin\Debug\netcoreapp2.2\HashJoin.runtimeconfig.json
+C:\Users\ivanl\source\repos\HashJoin\bin\Debug\netcoreapp2.2\HashJoin.runtimeconfig.dev.json
+C:\Users\ivanl\source\repos\HashJoin\bin\Debug\netcoreapp2.2\HashJoin.dll
+C:\Users\ivanl\source\repos\HashJoin\bin\Debug\netcoreapp2.2\HashJoin.pdb
+C:\Users\ivanl\source\repos\HashJoin\obj\Debug\netcoreapp2.2\HashJoin.csprojAssemblyReference.cache
+C:\Users\ivanl\source\repos\HashJoin\obj\Debug\netcoreapp2.2\HashJoin.csproj.CoreCompileInputs.cache
+C:\Users\ivanl\source\repos\HashJoin\obj\Debug\netcoreapp2.2\HashJoin.AssemblyInfoInputs.cache
+C:\Users\ivanl\source\repos\HashJoin\obj\Debug\netcoreapp2.2\HashJoin.AssemblyInfo.cs
+C:\Users\ivanl\source\repos\HashJoin\obj\Debug\netcoreapp2.2\HashJoin.dll
+C:\Users\ivanl\source\repos\HashJoin\obj\Debug\netcoreapp2.2\HashJoin.pdb

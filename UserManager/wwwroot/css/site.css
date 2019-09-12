@@ -1,0 +1,48 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+
+#login-wrapper {
+    width: 340px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+
+.wrapper{
+
+}
+
+.wrapper .sidebar {
+    position: absolute;
+    width: 250px;
+    overflow-y: hidden;
+    z-index: 1;
+}
+
+.wrapper .sidebar li a {
+    display: block;
+    background: #808080;
+    color: white;
+    text-decoration: none;
+    padding: 2em;
+}
+
+    .wrapper .sidebar li a.active {
+        display: block;
+        background: #000000;
+    }
+
+    .wrapper .content {
+        position: absolute;
+        margin-left: 250px;
+        width: calc(100% - 250px);
+        height: 100vh;
+    }

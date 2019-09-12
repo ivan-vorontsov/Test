@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashJoin", "HashJoin.csproj", "{BA01F613-BD5D-4757-962B-56E06F92F1E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserManager", "..\UserManager\UserManager.csproj", "{FBD0D576-93DA-466B-B8F8-C6124E87A729}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA01F613-BD5D-4757-962B-56E06F92F1E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA01F613-BD5D-4757-962B-56E06F92F1E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA01F613-BD5D-4757-962B-56E06F92F1E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA01F613-BD5D-4757-962B-56E06F92F1E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBD0D576-93DA-466B-B8F8-C6124E87A729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBD0D576-93DA-466B-B8F8-C6124E87A729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBD0D576-93DA-466B-B8F8-C6124E87A729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBD0D576-93DA-466B-B8F8-C6124E87A729}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {753C6BBA-A01A-4183-974E-6E6157B5A13C}
+	EndGlobalSection
+EndGlobal
